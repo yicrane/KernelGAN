@@ -34,3 +34,4 @@ This will produce kernel estimations in the results folder
 Download the DIV2KRK dataset: [dropbox](http://www.wisdom.weizmann.ac.il/~vision/kernelgan/DIV2KRK_public.zip)
 
 Reproduction code for your own Blind-SR dataset: [github](https://github.com/assafshocher/BlindSR_dataset_generator)
+> |#yic 20210203
